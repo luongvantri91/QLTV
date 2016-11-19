@@ -1,0 +1,36 @@
+c:\users\admin\documents\visual studio 2012\Projects\QLTV\QLTV\bin\Debug\QLTV.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\QLTV\QLTV\bin\Debug\QLTV.exe
+c:\users\admin\documents\visual studio 2012\Projects\QLTV\QLTV\bin\Debug\QLTV.pdb
+c:\users\admin\documents\visual studio 2012\Projects\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\QLTV\QLTV\obj\Debug\QLTV.exe
+c:\users\admin\documents\visual studio 2012\Projects\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\QLTV\QLTV\obj\Debug\QLTV.ctphieumuon.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\QLTV\QLTV\obj\Debug\QLTV.Docgia.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\QLTV\QLTV\obj\Debug\QLTV.Main.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\QLTV\QLTV\obj\Debug\QLTV.Muonsach.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\QLTV\QLTV\obj\Debug\QLTV.Nhanvien.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\QLTV\QLTV\obj\Debug\QLTV.sach.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\QLTV\QLTV\obj\Debug\QLTV.sachmuon.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\QLTV\QLTV\obj\Debug\QLTV.thongke.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\QLTV\QLTV\obj\Debug\QLTV.Doimatkhau.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\QLTV\QLTV\obj\Debug\QLTV.dangky.resources
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\bin\Debug\QLTV.exe.config
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.exe
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.pdb
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\bin\Debug\QLTV.exe
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\bin\Debug\QLTV.pdb
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.ctphieumuon.resources
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.dangky.resources
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.Docgia.resources
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.Doimatkhau.resources
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.Main.resources
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.Muonsach.resources
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.Nhanvien.resources
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.sach.resources
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.sachmuon.resources
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.thongke.resources
+D:\hoc\chuyên đề hqqt csdl\Lương Văn Trí - Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
